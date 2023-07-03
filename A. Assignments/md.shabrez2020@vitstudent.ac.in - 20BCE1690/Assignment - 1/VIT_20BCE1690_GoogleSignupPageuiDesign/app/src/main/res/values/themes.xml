@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VIT_20BCE1690_GoogleSignupPageuiDesign" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
