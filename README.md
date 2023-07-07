@@ -7,6 +7,10 @@ ChatConnect is a sample project built using the Android Compose UI toolkit. It s
 By exploring and understanding the ChatConnect project, developers can gain insights into building chat apps using Android Compose UI and leveraging Firebase for real-time data updates. The project serves as a valuable reference for implementing similar functionality in their own applications.
 
 # App Screenshots
+![App Screenshot](Screenshots/1.png)
+![App Screenshot](Screenshots/2.png)
+![App Screenshot](Screenshots/3.png)
+![App Screenshot](Screenshots/4.png)
 
 # Demo Video Drive Link
 https://drive.google.com/file/d/1PJC3cTUm_gAaOhZ80ile1NUJvj07-qqt/view?usp=drive_link
